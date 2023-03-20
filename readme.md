@@ -18,3 +18,5 @@
     - Understand lambda functions
     - Understand list methods map(), filter(), sort(), reduce()
     - Understand Try-Except error handling
+- Practice using Python to solve problems
+  - [exercism.io](https://exercism.org/tracks/python)
