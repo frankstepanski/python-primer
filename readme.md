@@ -1,6 +1,6 @@
 # Intro to Python
 
-## Topics Covered / Goals
+## Goals
 - Understand basic Python syntax
 - Understand variable types
 - Understand basic data types
