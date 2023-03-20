@@ -21,3 +21,7 @@
 - Practice using Python to solve problems
   - [exercism.io](https://exercism.org/tracks/python)
   - [edabit](https://edabit.com/challenges/python3)
+- Python best practices
+  - [PEP8](https://www.python.org/dev/peps/pep-0008/)
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+  - [Python Best Practices](https://docs.python-guide.org/writing/style/)
