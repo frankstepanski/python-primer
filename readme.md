@@ -25,3 +25,5 @@
   - [PEP8](https://www.python.org/dev/peps/pep-0008/)
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
   - [Python Best Practices](https://docs.python-guide.org/writing/style/)
+- Python Cheat Sheet
+  - [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
